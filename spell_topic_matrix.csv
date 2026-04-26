@@ -1,0 +1,62 @@
+Spell Name,Incantation,Dominant Topic,Topic Label,Topic_0,Topic_1,Topic_2,Topic_3
+Summoning Charm,Accio,1,LDA Topic 1: Defensive/Healing,0.037270177,0.915852,0.02146388,0.02541393
+Water-Making Spell,Aguamenti,3,LDA Topic 3: Offensive/Dark,0.025799572,0.018467702,0.01485806,0.9408747
+Launch an object up into the air,Alarte Ascendare,3,LDA Topic 3: Offensive/Dark,0.01972777,0.014121646,0.011361472,0.9547891
+Unlocking Charm,Alohomora,2,LDA Topic 2: Revealing/Other,0.037269183,0.02667824,0.9106388,0.025413824
+Spider repelling spell,Arania Exumai,0,LDA Topic 0: Control/Utility,0.9610645,0.014121638,0.011361464,0.013452341
+Slowing Charm,Arresto Momentum,3,LDA Topic 3: Offensive/Dark,0.015969558,0.01143142,0.009197069,0.9634019
+Killing Curse,Avada Kedavra,3,LDA Topic 3: Offensive/Dark,0.02580076,0.01846774,0.014858091,0.9408734
+Exploding Charm,Bombarda,1,LDA Topic 1: Defensive/Healing,0.02579921,0.9417502,0.01485809,0.01759246
+Brackium Emendo,Brackium Emendo,1,LDA Topic 1: Defensive/Healing,0.019727774,0.95545834,0.011361474,0.013452353
+Cistem Aperio,Cistem Aperio,3,LDA Topic 3: Offensive/Dark,0.01972777,0.014121646,0.011361472,0.9547891
+Locking Spell,Colloportus,0,LDA Topic 0: Control/Utility,0.94908124,0.018467888,0.014858211,0.017592603
+Blasting Curse,Confringo,1,LDA Topic 1: Defensive/Healing,0.037269175,0.9158532,0.021463787,0.025413819
+Cruciatus Curse,Crucio,0,LDA Topic 0: Control/Utility,0.6413315,0.32621756,0.014858277,0.01759268
+Severing Charm,Diffindo,0,LDA Topic 0: Control/Utility,0.94908154,0.018467791,0.014858133,0.01759251
+Dissendium,Dissendium,1,LDA Topic 1: Defensive/Healing,0.01972827,0.95545787,0.011361504,0.013452389
+Engorgement Charm,Engorgio,1,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508
+Episkey,Episkey,1,LDA Topic 1: Defensive/Healing,0.025799103,0.94175047,0.01485803,0.017592387
+Patronus Charm,Expecto Patronum,1,LDA Topic 1: Defensive/Healing,0.019727971,0.9554582,0.011361474,0.013452357
+Disarming Charm,Expelliarmus,1,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508
+Expulso Curse,Expulso,3,LDA Topic 3: Offensive/Dark,0.02579921,0.01846774,0.01485809,0.94087493
+General Counter-Spell,Finite,0,LDA Topic 0: Control/Utility,0.9610642,0.014121761,0.011361564,0.013452459
+Human Presence Revealing Spell,Homenum Revelio,3,LDA Topic 3: Offensive/Dark,0.013414158,0.009602152,0.0077253436,0.9692583
+Freezing Charm,Immobulus,3,LDA Topic 3: Offensive/Dark,0.019727705,0.0141216,0.011361435,0.9547892
+Impediment Jinx,Impedimenta,3,LDA Topic 3: Offensive/Dark,0.025799153,0.0184677,0.014858059,0.94087505
+Imperius Curse,Imperio,2,LDA Topic 2: Revealing/Other,0.019728482,0.014121626,0.9526975,0.013452331
+Incarcerous Spell,Incarcerous,2,LDA Topic 2: Revealing/Other,0.02579918,0.018467717,0.9381407,0.01759244
+Fire-Making Spell,Incendio,3,LDA Topic 3: Offensive/Dark,0.02579926,0.0184677,0.014858059,0.940875
+Levicorpus,Levicorpus,2,LDA Topic 2: Revealing/Other,0.019727742,0.014121627,0.9526983,0.0134523325
+Locomotion Charm,Locomotor,0,LDA Topic 0: Control/Utility,0.96106434,0.014121705,0.011361519,0.013452406
+Leg-Locker Curse,Locomotor Mortis,0,LDA Topic 0: Control/Utility,0.9610642,0.014121761,0.011361564,0.013452459
+Wand-Lighting Charm,Lumos,1,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508
+Lumos Maxima,Lumos Maxima,0,LDA Topic 0: Control/Utility,0.9610644,0.014121678,0.011361497,0.013452381
+Lumos Solem Spell,Lumos Solem,0,LDA Topic 0: Control/Utility,0.9610644,0.014121676,0.0113614965,0.013452379
+Muffliato Charm,Muffliato,0,LDA Topic 0: Control/Utility,0.94908124,0.018467888,0.014858211,0.017592603
+Wand-Extinguishing Charm,Nox,0,LDA Topic 0: Control/Utility,0.94908124,0.018467886,0.0148582095,0.0175926
+Memory Charm,Obliviate,3,LDA Topic 3: Offensive/Dark,0.025799096,0.018467657,0.014858025,0.9408752
+Oculus Reparo,Oculus Reparo,2,LDA Topic 2: Revealing/Other,0.019727742,0.014121627,0.9526983,0.0134523325
+Oppugno Jinx,Oppugno,2,LDA Topic 2: Revealing/Other,0.019728642,0.014121627,0.9526974,0.0134523325
+Peskipiksi Pesternomi,Peskipiksi Pesternomi,3,LDA Topic 3: Offensive/Dark,0.01341415,0.009602195,0.0077253785,0.96925825
+Full Body-Bind Curse,Petrificus Totalus,2,LDA Topic 2: Revealing/Other,0.019727742,0.014121627,0.9526983,0.0134523325
+Piertotum Locomotor,Piertotum Locomotor,0,LDA Topic 0: Control/Utility,0.94908124,0.018467888,0.01485821,0.017592601
+Portus,Portus,2,LDA Topic 2: Revealing/Other,0.025799125,0.01846768,0.9381408,0.017592402
+Reverse Spell,Priori Incantatem,1,LDA Topic 1: Defensive/Healing,0.015969625,0.96394354,0.009197108,0.010889674
+Shield Charm,Protego,2,LDA Topic 2: Revealing/Other,0.013414191,0.009602184,0.96783656,0.009147085
+Protego Maxima,Protego Maxima,2,LDA Topic 2: Revealing/Other,0.015969643,0.01143143,0.9617093,0.010889628
+Protego totalum,Protego totalum,1,LDA Topic 1: Defensive/Healing,0.019727718,0.95545846,0.0113614425,0.013452316
+Shrinking Charm,Reducio,3,LDA Topic 3: Offensive/Dark,0.03726923,0.026678277,0.021463823,0.91458863
+Revulsion Jinx,Relashio,0,LDA Topic 0: Control/Utility,0.9610642,0.014121761,0.011361564,0.013452459
+Mending Charm,Reparo,0,LDA Topic 0: Control/Utility,0.96106434,0.014121705,0.011361519,0.013452406
+Repello Inimicum,Repello Inimicum,1,LDA Topic 1: Defensive/Healing,0.010162105,0.9770561,0.0058524027,0.0069294344
+Muggle-Repelling Charm,Repello Muggletum,0,LDA Topic 0: Control/Utility,0.9490815,0.01846782,0.014858154,0.017592534
+Revelio Charm,Revelio,0,LDA Topic 0: Control/Utility,0.9610642,0.014121769,0.011361564,0.013452461
+Tickling Charm,Rictusempra,1,LDA Topic 1: Defensive/Healing,0.025799282,0.94175005,0.014858133,0.01759251
+Boggart-Banishing Spell,Riddikulus,2,LDA Topic 2: Revealing/Other,0.015969539,0.011431407,0.96170944,0.010889615
+Salvio hexia,Salvio hexia,0,LDA Topic 0: Control/Utility,0.94908124,0.018467888,0.014858211,0.017592603
+Sectumsempra,Sectumsempra,3,LDA Topic 3: Offensive/Dark,0.03726923,0.026678277,0.021463823,0.91458863
+Snake Summons Spell,Serpensortia,0,LDA Topic 0: Control/Utility,0.96106446,0.014121664,0.011361481,0.013452366
+Stunning Spell,Stupefy,0,LDA Topic 0: Control/Utility,0.9264434,0.026678486,0.02146399,0.025414059
+Vera Verto,Vera Verto,0,LDA Topic 0: Control/Utility,0.9735251,0.009602272,0.007725441,0.009147173
+Snake-Vanishing Spell,Vipera Evanesca,0,LDA Topic 0: Control/Utility,0.94908154,0.018467799,0.01485814,0.017592518
+Levitation Charm,Wingardium Leviosa,0,LDA Topic 0: Control/Utility,0.96106434,0.014121705,0.011361519,0.013452406

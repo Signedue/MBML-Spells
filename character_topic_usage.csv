@@ -1,0 +1,46 @@
+Character Name,Topic Label,Uses,Probability
+Albus Dumbledore,LDA Topic 1: Defensive/Healing,2,0.4
+Albus Dumbledore,LDA Topic 3: Offensive/Dark,2,0.4
+Albus Dumbledore,LDA Topic 2: Revealing/Other,1,0.2
+All,LDA Topic 2: Revealing/Other,2,1.0
+Bellatrix Lestrange,LDA Topic 0: Control/Utility,2,1.0
+Dolores Umbridge,LDA Topic 1: Defensive/Healing,1,0.5
+Dolores Umbridge,LDA Topic 2: Revealing/Other,1,0.5
+Draco Malfoy,LDA Topic 0: Control/Utility,1,1.0
+Filius Flitwick,LDA Topic 0: Control/Utility,1,1.0
+Fred Weasley,LDA Topic 1: Defensive/Healing,1,1.0
+George Weasley,LDA Topic 1: Defensive/Healing,1,1.0
+Ghosts,LDA Topic 3: Offensive/Dark,1,1.0
+Gilderoy Lockhart,LDA Topic 3: Offensive/Dark,1,1.0
+Gregory Goyle,LDA Topic 3: Offensive/Dark,1,1.0
+Harry Potter,LDA Topic 1: Defensive/Healing,34,0.5862068965517241
+Harry Potter,LDA Topic 0: Control/Utility,15,0.25862068965517243
+Harry Potter,LDA Topic 3: Offensive/Dark,5,0.08620689655172414
+Harry Potter,LDA Topic 2: Revealing/Other,4,0.06896551724137931
+Hermione Granger,LDA Topic 0: Control/Utility,11,0.39285714285714285
+Hermione Granger,LDA Topic 1: Defensive/Healing,7,0.25
+Hermione Granger,LDA Topic 2: Revealing/Other,5,0.17857142857142858
+Hermione Granger,LDA Topic 3: Offensive/Dark,5,0.17857142857142858
+James Potter,LDA Topic 2: Revealing/Other,1,0.5
+James Potter,LDA Topic 3: Offensive/Dark,1,0.5
+Luna Lovegood,LDA Topic 1: Defensive/Healing,1,1.0
+Neville Longbottom,LDA Topic 1: Defensive/Healing,4,0.8
+Neville Longbottom,LDA Topic 2: Revealing/Other,1,0.2
+Parvati Patil,LDA Topic 2: Revealing/Other,1,1.0
+Professors,LDA Topic 2: Revealing/Other,2,0.6666666666666666
+Professors,LDA Topic 1: Defensive/Healing,1,0.3333333333333333
+Remus Lupin,LDA Topic 1: Defensive/Healing,1,0.3333333333333333
+Remus Lupin,LDA Topic 2: Revealing/Other,1,0.3333333333333333
+Remus Lupin,LDA Topic 3: Offensive/Dark,1,0.3333333333333333
+Rolanda Hooch,LDA Topic 3: Offensive/Dark,1,1.0
+Ron Weasley,LDA Topic 2: Revealing/Other,3,0.5
+Ron Weasley,LDA Topic 0: Control/Utility,2,0.3333333333333333
+Ron Weasley,LDA Topic 1: Defensive/Healing,1,0.16666666666666666
+Severus Snape,LDA Topic 1: Defensive/Healing,3,0.6
+Severus Snape,LDA Topic 0: Control/Utility,1,0.2
+Severus Snape,LDA Topic 3: Offensive/Dark,1,0.2
+Sirius Black,LDA Topic 0: Control/Utility,2,0.6666666666666666
+Sirius Black,LDA Topic 1: Defensive/Healing,1,0.3333333333333333
+Tom Riddle,LDA Topic 0: Control/Utility,1,0.5
+Tom Riddle,LDA Topic 3: Offensive/Dark,1,0.5
+Voldemort,LDA Topic 3: Offensive/Dark,2,1.0

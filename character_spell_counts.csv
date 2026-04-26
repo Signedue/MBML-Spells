@@ -1,0 +1,93 @@
+Character Name,Spell Name,Incantation,Topic Label,Topic_0,Topic_1,Topic_2,Topic_3,Uses
+Albus Dumbledore,Portus,portus,LDA Topic 2: Revealing/Other,0.025799125,0.01846768,0.9381408,0.017592402,1
+Albus Dumbledore,Reverse Spell,priori incantatem,LDA Topic 1: Defensive/Healing,0.015969625,0.96394354,0.009197108,0.010889674,1
+Albus Dumbledore,Slowing Charm,arresto momentum,LDA Topic 3: Offensive/Dark,0.015969558,0.01143142,0.009197069,0.9634019,1
+Albus Dumbledore,Wand-Lighting Charm,lumos,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,1
+Albus Dumbledore,Water-Making Spell,aguamenti,LDA Topic 3: Offensive/Dark,0.025799572,0.018467702,0.01485806,0.9408747,1
+All,Boggart-Banishing Spell,riddikulus,LDA Topic 2: Revealing/Other,0.015969539,0.011431407,0.96170944,0.010889615,2
+Bellatrix Lestrange,Cruciatus Curse,crucio,LDA Topic 0: Control/Utility,0.6413315,0.32621756,0.014858277,0.01759268,2
+Dolores Umbridge,Incarcerous Spell,incarcerous,LDA Topic 2: Revealing/Other,0.02579918,0.018467717,0.9381407,0.01759244,1
+Dolores Umbridge,Summoning Charm,accio,LDA Topic 1: Defensive/Healing,0.037270177,0.915852,0.02146388,0.02541393,1
+Draco Malfoy,Snake Summons Spell,serpensortia,LDA Topic 0: Control/Utility,0.96106446,0.014121664,0.011361481,0.013452366,1
+Filius Flitwick,Levitation Charm,wingardium leviosa,LDA Topic 0: Control/Utility,0.96106434,0.014121705,0.011361519,0.013452406,1
+Fred Weasley,Summoning Charm,accio,LDA Topic 1: Defensive/Healing,0.037270177,0.915852,0.02146388,0.02541393,1
+George Weasley,Summoning Charm,accio,LDA Topic 1: Defensive/Healing,0.037270177,0.915852,0.02146388,0.02541393,1
+Ghosts,Impediment Jinx,impedimenta,LDA Topic 3: Offensive/Dark,0.025799153,0.0184677,0.014858059,0.94087505,1
+Gilderoy Lockhart,Peskipiksi Pesternomi,peskipiksi pesternomi,LDA Topic 3: Offensive/Dark,0.01341415,0.009602195,0.0077253785,0.96925825,1
+Gregory Goyle,Killing Curse,avada kedavra,LDA Topic 3: Offensive/Dark,0.02580076,0.01846774,0.014858091,0.9408734,1
+Harry Potter,Blasting Curse,confringo,LDA Topic 1: Defensive/Healing,0.037269175,0.9158532,0.021463787,0.025413819,2
+Harry Potter,Cruciatus Curse,crucio,LDA Topic 0: Control/Utility,0.6413315,0.32621756,0.014858277,0.01759268,1
+Harry Potter,Disarming Charm,expelliarmus,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,3
+Harry Potter,Dissendium,dissendium,LDA Topic 1: Defensive/Healing,0.01972827,0.95545787,0.011361504,0.013452389,1
+Harry Potter,Engorgement Charm,engorgio,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,1
+Harry Potter,Expulso Curse,expulso,LDA Topic 3: Offensive/Dark,0.02579921,0.01846774,0.01485809,0.94087493,1
+Harry Potter,Impediment Jinx,impedimenta,LDA Topic 3: Offensive/Dark,0.025799153,0.0184677,0.014858059,0.94087505,1
+Harry Potter,Imperius Curse,imperio,LDA Topic 2: Revealing/Other,0.019728482,0.014121626,0.9526975,0.013452331,1
+Harry Potter,Levitation Charm,wingardium leviosa,LDA Topic 0: Control/Utility,0.96106434,0.014121705,0.011361519,0.013452406,1
+Harry Potter,Lumos Maxima,lumos maxima,LDA Topic 0: Control/Utility,0.9610644,0.014121678,0.011361497,0.013452381,5
+Harry Potter,Patronus Charm,expecto patronum,LDA Topic 1: Defensive/Healing,0.019727971,0.9554582,0.011361474,0.013452357,10
+Harry Potter,Protego totalum,protego totalum,LDA Topic 1: Defensive/Healing,0.019727718,0.95545846,0.0113614425,0.013452316,1
+Harry Potter,Salvio hexia,salvio hexia,LDA Topic 0: Control/Utility,0.94908124,0.018467888,0.014858211,0.017592603,1
+Harry Potter,Sectumsempra,sectumsempra,LDA Topic 3: Offensive/Dark,0.03726923,0.026678277,0.021463823,0.91458863,2
+Harry Potter,Severing Charm,diffindo,LDA Topic 0: Control/Utility,0.94908154,0.018467791,0.014858133,0.01759251,1
+Harry Potter,Shield Charm,protego,LDA Topic 2: Revealing/Other,0.013414191,0.009602184,0.96783656,0.009147085,2
+Harry Potter,Shrinking Charm,reducio,LDA Topic 3: Offensive/Dark,0.03726923,0.026678277,0.021463823,0.91458863,1
+Harry Potter,Spider repelling spell,arania exumai,LDA Topic 0: Control/Utility,0.9610645,0.014121638,0.011361464,0.013452341,2
+Harry Potter,Stunning Spell,stupefy,LDA Topic 0: Control/Utility,0.9264434,0.026678486,0.02146399,0.025414059,3
+Harry Potter,Summoning Charm,accio,LDA Topic 1: Defensive/Healing,0.037270177,0.915852,0.02146388,0.02541393,4
+Harry Potter,Tickling Charm,rictusempra,LDA Topic 1: Defensive/Healing,0.025799282,0.94175005,0.014858133,0.01759251,1
+Harry Potter,Unlocking Charm,alohomora,LDA Topic 2: Revealing/Other,0.037269183,0.02667824,0.9106388,0.025413824,1
+Harry Potter,Wand-Extinguishing Charm,nox,LDA Topic 0: Control/Utility,0.94908124,0.018467886,0.0148582095,0.0175926,1
+Harry Potter,Wand-Lighting Charm,lumos,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,11
+Hermione Granger,Blasting Curse,confringo,LDA Topic 1: Defensive/Healing,0.037269175,0.9158532,0.021463787,0.025413819,2
+Hermione Granger,Disarming Charm,expelliarmus,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,1
+Hermione Granger,Exploding Charm,bombarda,LDA Topic 1: Defensive/Healing,0.02579921,0.9417502,0.01485809,0.01759246,1
+Hermione Granger,Fire-Making Spell,incendio,LDA Topic 3: Offensive/Dark,0.02579926,0.0184677,0.014858059,0.940875,1
+Hermione Granger,Freezing Charm,immobulus,LDA Topic 3: Offensive/Dark,0.019727705,0.0141216,0.011361435,0.9547892,1
+Hermione Granger,Full Body-Bind Curse,petrificus totalus,LDA Topic 2: Revealing/Other,0.019727742,0.014121627,0.9526983,0.0134523325,1
+Hermione Granger,General Counter-Spell,finite,LDA Topic 0: Control/Utility,0.9610642,0.014121761,0.011361564,0.013452459,2
+Hermione Granger,Human Presence Revealing Spell,homenum revelio,LDA Topic 3: Offensive/Dark,0.013414158,0.009602152,0.0077253436,0.9692583,1
+Hermione Granger,Levitation Charm,wingardium leviosa,LDA Topic 0: Control/Utility,0.96106434,0.014121705,0.011361519,0.013452406,1
+Hermione Granger,Locking Spell,colloportus,LDA Topic 0: Control/Utility,0.94908124,0.018467888,0.014858211,0.017592603,1
+Hermione Granger,Memory Charm,obliviate,LDA Topic 3: Offensive/Dark,0.025799096,0.018467657,0.014858025,0.9408752,2
+Hermione Granger,Mending Charm,reparo,LDA Topic 0: Control/Utility,0.96106434,0.014121705,0.011361519,0.013452406,1
+Hermione Granger,Muffliato Charm,muffliato,LDA Topic 0: Control/Utility,0.94908124,0.018467888,0.014858211,0.017592603,1
+Hermione Granger,Muggle-Repelling Charm,repello muggletum,LDA Topic 0: Control/Utility,0.9490815,0.01846782,0.014858154,0.017592534,1
+Hermione Granger,Oculus Reparo,oculus reparo,LDA Topic 2: Revealing/Other,0.019727742,0.014121627,0.9526983,0.0134523325,1
+Hermione Granger,Oppugno Jinx,oppugno,LDA Topic 2: Revealing/Other,0.019728642,0.014121627,0.9526974,0.0134523325,1
+Hermione Granger,Protego totalum,protego totalum,LDA Topic 1: Defensive/Healing,0.019727718,0.95545846,0.0113614425,0.013452316,1
+Hermione Granger,Revelio Charm,revelio,LDA Topic 0: Control/Utility,0.9610642,0.014121769,0.011361564,0.013452461,1
+Hermione Granger,Revulsion Jinx,relashio,LDA Topic 0: Control/Utility,0.9610642,0.014121761,0.011361564,0.013452459,2
+Hermione Granger,Salvio hexia,salvio hexia,LDA Topic 0: Control/Utility,0.94908124,0.018467888,0.014858211,0.017592603,1
+Hermione Granger,Shield Charm,protego,LDA Topic 2: Revealing/Other,0.013414191,0.009602184,0.96783656,0.009147085,1
+Hermione Granger,Unlocking Charm,alohomora,LDA Topic 2: Revealing/Other,0.037269183,0.02667824,0.9106388,0.025413824,1
+Hermione Granger,Wand-Lighting Charm,lumos,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,2
+James Potter,Impediment Jinx,impedimenta,LDA Topic 3: Offensive/Dark,0.025799153,0.0184677,0.014858059,0.94087505,1
+James Potter,Levicorpus,levicorpus,LDA Topic 2: Revealing/Other,0.019727742,0.014121627,0.9526983,0.0134523325,1
+Luna Lovegood,Episkey,episkey,LDA Topic 1: Defensive/Healing,0.025799103,0.94175047,0.01485803,0.017592387,1
+Neville Longbottom,Boggart-Banishing Spell,riddikulus,LDA Topic 2: Revealing/Other,0.015969539,0.011431407,0.96170944,0.010889615,1
+Neville Longbottom,Disarming Charm,expelliarmus,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,4
+Parvati Patil,Boggart-Banishing Spell,riddikulus,LDA Topic 2: Revealing/Other,0.015969539,0.011431407,0.96170944,0.010889615,1
+Professors,Protego Maxima,protego maxima,LDA Topic 2: Revealing/Other,0.015969643,0.01143143,0.9617093,0.010889628,1
+Professors,Repello Inimicum,repello inimicum,LDA Topic 1: Defensive/Healing,0.010162105,0.9770561,0.0058524027,0.0069294344,1
+Professors,Shield Charm,protego,LDA Topic 2: Revealing/Other,0.013414191,0.009602184,0.96783656,0.009147085,1
+Remus Lupin,Boggart-Banishing Spell,riddikulus,LDA Topic 2: Revealing/Other,0.015969539,0.011431407,0.96170944,0.010889615,1
+Remus Lupin,Freezing Charm,immobulus,LDA Topic 3: Offensive/Dark,0.019727705,0.0141216,0.011361435,0.9547892,1
+Remus Lupin,Patronus Charm,expecto patronum,LDA Topic 1: Defensive/Healing,0.019727971,0.9554582,0.011361474,0.013452357,1
+Rolanda Hooch,Impediment Jinx,impedimenta,LDA Topic 3: Offensive/Dark,0.025799153,0.0184677,0.014858059,0.94087505,1
+Ron Weasley,Boggart-Banishing Spell,riddikulus,LDA Topic 2: Revealing/Other,0.015969539,0.011431407,0.96170944,0.010889615,1
+Ron Weasley,Imperius Curse,imperio,LDA Topic 2: Revealing/Other,0.019728482,0.014121626,0.9526975,0.013452331,1
+Ron Weasley,Levitation Charm,wingardium leviosa,LDA Topic 0: Control/Utility,0.96106434,0.014121705,0.011361519,0.013452406,1
+Ron Weasley,Unlocking Charm,alohomora,LDA Topic 2: Revealing/Other,0.037269183,0.02667824,0.9106388,0.025413824,1
+Ron Weasley,Vera Verto,vera verto,LDA Topic 0: Control/Utility,0.9735251,0.009602272,0.007725441,0.009147173,1
+Ron Weasley,Wand-Lighting Charm,lumos,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,1
+Severus Snape,Disarming Charm,expelliarmus,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,2
+Severus Snape,Killing Curse,avada kedavra,LDA Topic 3: Offensive/Dark,0.02580076,0.01846774,0.014858091,0.9408734,1
+Severus Snape,Patronus Charm,expecto patronum,LDA Topic 1: Defensive/Healing,0.019727971,0.9554582,0.011361474,0.013452357,1
+Severus Snape,Snake-Vanishing Spell,vipera evanesca,LDA Topic 0: Control/Utility,0.94908154,0.018467799,0.01485814,0.017592518,1
+Sirius Black,Disarming Charm,expelliarmus,LDA Topic 1: Defensive/Healing,0.02579928,0.9417501,0.014858132,0.017592508,1
+Sirius Black,Leg-Locker Curse,locomotor mortis,LDA Topic 0: Control/Utility,0.9610642,0.014121761,0.011361564,0.013452459,1
+Sirius Black,Locomotion Charm,locomotor,LDA Topic 0: Control/Utility,0.96106434,0.014121705,0.011361519,0.013452406,1
+Tom Riddle,Cistem Aperio,cistem aperio,LDA Topic 3: Offensive/Dark,0.01972777,0.014121646,0.011361472,0.9547891,1
+Tom Riddle,Spider repelling spell,arania exumai,LDA Topic 0: Control/Utility,0.9610645,0.014121638,0.011361464,0.013452341,1
+Voldemort,Killing Curse,avada kedavra,LDA Topic 3: Offensive/Dark,0.02580076,0.01846774,0.014858091,0.9408734,2
